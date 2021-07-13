@@ -1,0 +1,37 @@
+header {
+  background-color:#f37520;
+  min-height: 64px;
+
+
+}
+
+section nav{
+  background-color: #ededed;
+  padding: 2rem;
+  margin-left: 1rem;
+}
+
+
+footer{
+  background-color: #454545;
+  bottom: 0;
+  left: 0;
+  position: fixed;
+  width: 100%;
+}
+
+
+img{
+  height:100px;
+  width: 150px;
+  
+}
+
+ @media(max-width: 376px) {
+  
+  .centro{
+    justify-content: center !important;
+  }
+ 
+}  
+
